@@ -12,4 +12,5 @@ You can see that the average goal is at $4000. This average is pulled up because
 As would be pledges, in particular, one pledge that was 6-7 times the average pledge
 Because of this, we see the “true” middle as $2000
 We recommend setting your Kickstarter goal at no more than $4000 and no less than $2000, further reinforcing the trends we have seen in the previous datasets for successful 
-[Link to Full Presentation](http://github.com)
+
+[Link to Full Presentation](https://github.com/AMSradio/kickstarter-anlaysis/blob/main/LessonExerciseAnalysis.pdf)
